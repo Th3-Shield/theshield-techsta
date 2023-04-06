@@ -7,3 +7,5 @@ The community of Shield is composed of skilled and passionate individuals who ar
 Through Techsta, developers and bug hunters can also share their knowledge and learn from each other, furthering their skills and expertise in the tech industry. The organization's ultimate goal is to create innovative solutions that benefit the community and make a positive impact on society.
 
 Overall, Techsta aims to foster a collaborative and supportive community of tech enthusiasts who are committed to improving the world through technology.
+
+#update the readme.
